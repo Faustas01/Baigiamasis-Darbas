@@ -1,0 +1,61 @@
+
+#energy-bar {
+    width: 300px;
+    height: 20px;
+    border: 1px solid #000;
+    margin-bottom: 20px; 
+    position: relative; 
+    top: 20px; 
+}
+
+#energy-progress {
+    height: 100%;
+    background-color: green;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #035e06;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-right: 10px;
+    transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #45a049;
+}
+#inventory {
+    max-width:40%;
+    border: 2px solid #000000; 
+    padding: 10px;
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: flex-start; 
+    gap:10px;
+    overflow: auto;
+}
+
+#inventory div {
+    margin-bottom: 5px; 
+    background-color: #fdfdfd; 
+    border-radius: 5px; 
+    border: 2px solid black;
+    padding: 10px 20px;
+    
+}
+#mine-gold {
+    margin:10px;
+    background-color: #035e06;; 
+    color: #ffffff; 
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+#mine-gold:hover {
+    background-color: #45a049;; 
+}

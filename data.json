@@ -1,0 +1,60 @@
+{
+  "Player": [
+    {
+      "id": [],
+      "energy": "100",
+      "money": 0
+    },
+    {
+      "id": "e771",
+      "energy": 100,
+      "money": 0
+    },
+    {
+      "id": "9d65",
+      "energy": 98,
+      "money": 0
+    },
+    {
+      "id": "1708599403349"
+    },
+    {
+      "id": "ca9a",
+      "energy": 100,
+      "money": 0
+    },
+    {
+      "id": "5bbb",
+      "energy": 100,
+      "money": 0
+    },
+    {
+      "id": "16c0",
+      "energy": 100,
+      "money": 0
+    }
+  ],
+  "Inventory": [
+    {
+      "id": "1708591637088",
+      "weight": "0.34"
+    }
+  ],
+  "Shop": [
+    {
+      "energy": "10",
+      "price": 50,
+      "id": "59a8"
+    },
+    {
+      "energy": "25",
+      "price": 115,
+      "id": "4eaa"
+    },
+    {
+      "energy": "50",
+      "price": 200,
+      "id": "4eaa"
+    }
+  ]
+}
